@@ -1,0 +1,6 @@
+001 Apples 20
+002 Tomato 5
+003 Lettuce 1
+008 Chicken 2lbs
+005 Milk 1gal
+007 Cheese 1lb
